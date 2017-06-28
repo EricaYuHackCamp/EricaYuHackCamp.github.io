@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+table, th, td {
+    border: 1px solid black;
+    width: 275px;
+    color: black;
+}
+
+td {
+    background-color: #f7bbbb;
+    
+}
+img {
+    width: 255px;
+}
+li {
+    text-align: center;
+    background-color: yellow;
+}
+
+

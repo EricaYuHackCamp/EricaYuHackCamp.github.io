@@ -1,8 +1,30 @@
 img {
     width: 200px;
+    height: px;
 }
-
 body {
     text-align: center;
     font-family: "Times New Roman";
 }
+h2 {
+    font-size: 180%;
+    color: darkblue;
+}
+p {
+    font-size:100%;
+    color: black;
+}
+h4 {
+    font-size: 120%;
+    text-align: center;
+    color: darkred;
+}
+h1 {
+    font-size: 300%;
+    text-align: center;
+}
+img2 {
+    width: 300px;
+}
+    
+    
